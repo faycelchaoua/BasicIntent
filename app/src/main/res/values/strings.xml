@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasicIntent</string>
+    <string name="action_send">ACTION_SEND</string>
+    <string name="action_dial">ACTION_DIAL</string>
+    <string name="query">Requête</string>
+    <string name="btn_google">Bouton Google</string>
+    <string name="action_view">ACTION_VIEW</string>
+    <string name="item_home">item_home</string>
+    <string name="dialActivity_name">Intent Action Dial</string>
+    <string name="sendActivity_name">Intent Action Send</string>
+    <string name="viewActivity_name">Intent Action View</string>
+</resources>
